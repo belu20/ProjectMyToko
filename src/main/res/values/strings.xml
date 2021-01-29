@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">MyToko</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Mytoko</string>
+    <string name="nav_header_subtitle">mytoko@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="date">Date</string>
+    <string name="judul_buku">Merek Baju</string>
+    <string name="deskripsi_buku">Deskripsi</string>
+    <string name="bayar">Bayar</string>
+    <string name="harga_buku">Harga</string>
+
+    view
+    <string name="judul">Merek Baju</string>
+    <string name="harga">Harga</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="titikdua">:</string>
+
+    halaman login dan register
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="halaman_login">Login</string>
+    <string name="belum_punya_akun">belum punya akun?</string>
+
+    button
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="delete">DELETE</string>
+    <string name="submit">Submit</string>
+    <string name="logout">Logout</string>
+    <string name="transaksi">Transaksi</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+
+    tema splashscreen
+
+    <style name="TemaSplashScreen" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#FFFFFF</item>
+        <item name="colorPrimaryDark">#FFFFFF</item>
+        <item name="colorAccent">#FFFFFF</item>
+    </style>
+
+    tema login Regis
+
+    <style name="TemaLogin" parent="Theme.AppCompat.Light.NoActionBar">
+
+        <item name="colorPrimaryDark">#E64A19</item>
+    </style>
+</resources>
